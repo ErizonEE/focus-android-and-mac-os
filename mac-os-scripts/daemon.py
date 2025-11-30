@@ -1,0 +1,1 @@
+# Este sera un script que se ejecutara como daemon en macOS para apagar y prender el modo focus desde la app Android Auto
